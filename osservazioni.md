@@ -3,6 +3,7 @@
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
+Antonio Ottaviano (dodo-2310)
 
 URL del repository condiviso:
 
