@@ -63,8 +63,8 @@ int main(int argc, char *argv[])
     }
 
     char *testo = argv[1];    
-    int intero=leggi_reale(argv[2]);
-    double reale=leggi_intero(argv[3]);
+    int intero=leggi_intero(argv[2]);
+    double reale=leggi_reale(argv[3]);
     printf("%s, %d, %.6f\n", testo, intero, reale);
 
     return 0;
